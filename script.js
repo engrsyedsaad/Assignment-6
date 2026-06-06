@@ -1,6 +1,3 @@
-function abc(num){
-    console.log(num)
-
-}
-
-abc("saad")
+let str = "syed Saad "
+let brr = str.split("")
+console.log(brr)
